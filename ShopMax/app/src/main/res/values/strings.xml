@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ShopMax</string>
+    <string name="title_activity_mall_display">MallDisplayActivity</string>
+    <string name="action_settings">Settings</string>
 </resources>
